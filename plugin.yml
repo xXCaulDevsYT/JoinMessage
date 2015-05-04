@@ -1,0 +1,5 @@
+name: JoinMessage
+main: sean\JoinMessage\Main
+version: "1.0.0"
+api: [1.0.0]
+description: Sends a message when people join the server.

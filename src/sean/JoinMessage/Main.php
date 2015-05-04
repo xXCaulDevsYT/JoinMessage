@@ -18,4 +18,4 @@ class Main extends PluginBase implements Listener{
      $p = $event->getPlayer();
      $p->sendMessage("Welcome to my server!");
      }
-}
+
